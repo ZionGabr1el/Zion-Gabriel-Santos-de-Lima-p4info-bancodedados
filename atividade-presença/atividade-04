@@ -1,0 +1,15 @@
+a) Entidade
+-Conjunto de objetos da realidade modelada sobre os quais deseja-se manter informações no banco de dados.
+b) Relacionamento
+-É- um tipo de fluxograma que ilustra como “entidades”, objetos ou conceitos, se relacionam entre si dentro de um sistema.
+c) Atributo
+-São características da entidade que ajudam usuários a entender melhor o banco de dados
+d) Dominio de um Atributo
+-Conjunto de valores definido e nomeado, do qual um ou mais atributos extraem seus valores
+e) Generalização/especialização
+-São conceitos usados para representar objetos do mundo real que possuem os mesmos atributos e que podem ser categorizados e representados em 
+uma hierarquia.
+f) Entidade Associativa
+-Nada mais é que a redefinição de um relacionamento, que passa a ser tratado como se fosse uma entidade.
+g) Cardinalidade de um Atributo
+-Indica quantas ocorrências de uma Entidade participam no mínimo e no máxima do relacionamento.
