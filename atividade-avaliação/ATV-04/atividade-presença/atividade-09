@@ -1,0 +1,7 @@
+Defina uma Tabela e exemplifique o uso de comando SQL que executam operações CRUD.
+-Conjunto de linhas e colunas, cada linha na tabela representa um fatoque corresponde a uma entidade ou relacionamento do mundo real. O nome da tabela e os 
+nomes das colunas são usados para ajudar na interpretação do significado dos valores em cada linha. 
+INSERT - Esse comando é responsável por inserir dados na tabela. Ex: INSERT INTO cliente (nome, endereço)
+SELECT - Ele traz para você exatamente o que você quer saber quando pesquisa algo no banco de dados. Ex: SELECT * FROM client
+UPDATE - Atualização dos dados que você inseriu na tabela. Ex: UPDATE cliente SET endereco = ‘Rua das chaves’ WHERE nome = ‘José Raimundo’
+DELETE - Exclui o dado especificado. Ex: DELETE from cliente WHERE nome = ‘José Raimundo’

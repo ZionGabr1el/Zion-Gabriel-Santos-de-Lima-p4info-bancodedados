@@ -1,0 +1,6 @@
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+-tomemos como exemplo uma aplicação de vendas em que existem as entidades Produto e Venda, que se relacionam na forma (n,n),uma vez que em uma venda pode haver vários
+produtos e um produto pode ser vendido várias vezes. Em determinado momento, a empresa passou a entregar brindes para os clientes que comprassem um determinado produto.
+A entidade Brinde, então, está relacionada não apenas com a Venda, nem com o Produto, mas sim com o item da venda, ou seja, com o relacionamento entre as duas 
+entidades citadas anteriormente. Como não podemos associar a entidade Brinde com um relacionamento, criamos então a entidade associativa "Item da Venda", 
+que contém os atributos identificadores das entidades Venda e Produto, além de informações como quantidade e número de série.

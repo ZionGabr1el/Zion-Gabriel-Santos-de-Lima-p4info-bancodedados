@@ -1,0 +1,4 @@
+1) Sistema isolado
+-parcelas isoladas de dados podem ser compartilhadas por diversos usuários num banco de dados
+2) Sistema Integrado
+-unificação de diversos arquivos de dados, eliminando-se total ou parcialmente qualquer redundância entre os mesmos.
