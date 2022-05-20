@@ -1,8 +1,0 @@
-1) Modelagem Conceitual
--capturar os requisitos de dados do mundo real de uma maneira simples e significativa, que seja intelgível pelo projetista de banco de dados e usuário final.
-2) Projeto Lógico
--implementação real do banco de dados utilizando um SGBD comercial, de forma que o esquema conceitual seja transformado de um modelo de dados de alto nível em um modelo de dados
-de implementação.
-3) Projeto Físico
--definição da estrutura de armazenamento interno, índices,
-caminhos de acesso e organizações de arquivo para os arquivos do banco de dados.

@@ -1,9 +1,0 @@
-1) Dado
--Os dados são fatos que podem ser gravados e que possuem um
-significado implícito.
-2) Informação
--informações são uma coleção de dados com um significado implícito, conseqüentemente, um banco de dados.
-3) Arquivo convencional
--é uma coleção de registros de um mesmo tipo.
-4) Banco de dados
--Um banco de dados é uma coleção lógica e coerente de dados com algum significado inerente.
